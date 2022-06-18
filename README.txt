@@ -1,5 +1,5 @@
 
-TITLE: 
+TITLE 
 Foodee - One Page Responsive Free HTML5 template
 
 AUTHOR:
